@@ -1,3 +1,4 @@
+# Analiza zagađenosti zraka lebdećim česticama u gradu Zagrebu
 _Ovaj projekt obrađuje podatke o česticama PM10 i PM2.5 u Zagrebu. Sustav povlači podatke iz Excel datoteka i vanjskog API-ja, sprema ih u bazu te nudi REST API za pregled i skriptu za vizualizaciju._
 
 **Funkcionalnosti sustava** 
