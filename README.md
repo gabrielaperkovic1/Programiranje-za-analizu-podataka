@@ -14,7 +14,7 @@ _Ovaj projekt obrađuje podatke o česticama PM10 i PM2.5 u Zagrebu. Sustav povl
 - Automatizirana izrada grafova s prikazom trendova po godišnjim dobima.
 
 
-# **Upute za pokretanje** 
+## **Upute za pokretanje** 
 
 ****1.** Instalirati potrebne biblioteke:**
 
