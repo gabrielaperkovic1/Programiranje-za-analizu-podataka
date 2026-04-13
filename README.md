@@ -35,7 +35,7 @@ Za generaciju svih grafova potrebno je pokrenuti grafovi.py.
 Nakon pokretajna svi grafovi će se spremiti u obliku slika u folder programa. 
 
 ___
-Struktura datoteka
+**Struktura datoteka**
 
 main.py: Glavni program za obradu podataka i pokretanje API-ja.
 
@@ -49,7 +49,7 @@ baza_podataka.db: SQLite baza (generira se automatski).
 kvaliteta_zraka_zagreb_2025.csv: Pročišćeni podatci mjerenja.
 ____
 
-Dostupne API rute
+**Dostupne API rute**
 
 /mjerenja_sijecanj_2025: Sva mjerenja za siječanj 2025.
 
